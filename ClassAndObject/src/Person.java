@@ -1,3 +1,5 @@
+import a.A;
+
 public class Person {
     public int soTay = 0;
     public String mauToc;
@@ -18,6 +20,8 @@ public class Person {
 
 
     public static void main(String[] args) {
+        A a = new A();
+        b.A b = new b.A();
 //        Person nam = new Person(2, "Hồng");
 //        System.out.println(nam.disPlay());
 //

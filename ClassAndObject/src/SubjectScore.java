@@ -34,3 +34,12 @@ public class SubjectScore {
         System.out.println(getAvg(sc1,sc2,sc3));
     }
 }
+
+
+class Main {
+    public static void main(String[] args) {
+        int number1 = 5;
+        int number2 = 0;
+        System.out.println(number1/number2);
+    }
+}

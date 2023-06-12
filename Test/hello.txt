@@ -1,0 +1,203 @@
+HelloVietTuts
+
+
+Home
+ 
+Java
+ 
+Servlet
+ 
+JSP
+ 
+Struts2
+ 
+Hibernate
+ 
+Spring
+ 
+MyBatis
+ 
+Java WS
+ 
+C
+ 
+C++
+ 
+C#
+ 
+Python
+ 
+PHP
+ 
+Excel
+ 
+VBA
+ 
+Web
+JavaScript
+ 
+JQUERY
+ 
+JSON
+ 
+AJAX
+ 
+CSS
+ 
+HTML
+ 
+HTML5
+ 
+Node.js
+ 
+Angular 7
+ 
+SQL
+MySQL
+ 
+SQL Server
+ 
+Misc
+Eclipse
+ 
+Phần mềm tiện ích
+ 
+Cấu trúc DL&GT
+ 
+Selenium Test
+Java Cơ Bản
+Các Khái Niệm Java OOPs
+Java String
+Xử Lý Ngoại Lệ
+Các Lớp Lồng Nhau
+Đa Luồng (Multithreading)
+Java I/O
+Java Input/OutputĐọc ghi file trong javaLớp ConsoleLớp FilePermissionGhi file trong java với lớp FileOutputStreamĐọc file trong java với lớp FileInputStreamGhi file trong java với lớp BufferedOutputStreamĐọc file trong java với lớp BufferedInputStreamĐọc file trong java với lớp SequenceInputStreamGhi file trong java với lớp ByteArrayOutputStreamĐọc file trong java với lớp ByteArrayInputStreamGhi file trong java với lớp DataOutputStreamĐọc file trong java với lớp DataInputStreamGhi file trong java với lớp FileWriterĐọc file trong java với lớp FileReaderGhi file trong java với lớp FilteroutputStreamĐọc file trong java với lớp FilterInputStreamGhi file trong java với lớp BufferedWriterĐọc file trong java với lớp BufferedReaderĐọc file trong java với lớp CharArrayReaderGhi file trong java với lớp CharArrayWriterGhi file trong java với lớp PrintStreamGhi file trong java với lớp PrintWriterLớp PushbackInputStream trong javaLớp PushbackReader trong javaGhi file trong java với lớp StringWriterĐọc file trong java với lớp StringReader
+Java Serialization
+Serialization trong javaLớp ObjectOutputStreamLớp ObjectInputStreamTừ khóa transient trong java
+Ví Dụ Java I/O
+Java AWT
+Java Swing
+Lập Trình Mạng Với Java
+Java Date
+Chuyển Đối Kiểu Dữ Liệu
+Java Collections
+Java JDBC
+Các Tính Năng Mới Trong Java
+Bài Tập Java Có Lời Giải
+Câu Hỏi Phỏng Vấn Java
+
+
+Ghi file trong java với lớp BufferedWriter
+ Đọc ghi file trong javaĐọc file trong java với lớp BufferedReader 
+Lớp BufferedWriter trong java được sử dụng để cung cấp bộ đệm cho các các thể hiện của lớp Writer. Nó giúp hiệu suất nhanh. Nó thừa kế lớp Writer. Các ký tự đệm được sử dụng để cung cấp việc ghi dữ liệu hiệu quả với các mảng đơn, các ký tự và chuỗi.
+
+Khai báo của lớp BufferedWriter
+
+Dưới đây là khi báo của lớp Java.io.BufferedWriter:
+
+?
+1
+public class BufferedWriter extends Writer
+Nội dung chính
+
+Các constructor của lớp BufferedWriter
+Các phương thức của lớp BufferedWriter
+Ví dụ về ghi file trong java với lớp BufferedWriter
+Các constructor của lớp BufferedWriter
+Constructor	Mô tả
+BufferedWriter(Writer wrt)	Nó được sử dụng để tạo ra thể hiện của BufferedWriter có sử dụng kích thước mặc định cho một bộ đệm đầu ra.
+BufferedWriter(Writer wrt, int size)	Nó được sử dụng để tạo ra thể hiện của BufferedWriter mà sử dụng kích thước quy định cho một bộ đệm đầu ra.
+Các phương thức của lớp BufferedWriter
+Method	Mô tả
+void newLine()	Nó được sử dụng để thêm một dòng mới với dấu xuống dòng.
+void write(int c)	Nó được sử dụng để ghi một ký tự duy nhất.
+void write(char[] cbuf, int off, int len)	Nó được sử dụng để ghi một phần của một mảng các ký tự.
+void write(String s, int off, int len)	Nó được sử dụng để ghi một phần của một chuỗi.
+void flush()	Nó được sử dụng để xả BufferedWriter .
+void close()	Nó được sử dụng để đóng BufferedWriter
+
+
+Ví dụ về ghi file trong java với lớp BufferedWriter
+Chúng ta hãy xem ví dụ đơn giản thực hiện việc ghi dữ liệu vào file testout.txt bằng Java BufferedWriter.
+
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+ 
+public class BufferedWriterExample {
+    public static void main(String[] args) throws Exception {
+        FileWriter writer = new FileWriter("D:\\testout.txt");
+        BufferedWriter buffer = new BufferedWriter(writer);
+        buffer.write("Welcome to java.");
+        buffer.close();
+        System.out.println("Success...");
+    }
+}
+Output:
+
+Success...
+testout.txt:
+
+Welcome to java.
+Bài tiếp theo: Đọc file trong java với lớp BufferedReader
+ Đọc ghi file trong javaĐọc file trong java với lớp BufferedReader 
+
+Recent Updates
+Sắp Tết 2024 Rồi! - Còn bao nhiêu ngày nữa là đến tết 2024?
+Java Swing - Bài tập quản lý sinh viên trong java
+LinkedList trong java
+ArrayList trong java
+Bài tập java có lời giải
+Xác thực dữ liệu (Data Validation) trong Excel
+Giới thiệu các hàm có sẵn trong Excel
+Sheet Options trong Excel
+Hướng dẫn lập trình Python với PyCharm Community Edition
+Hướng dẫn lập trình Python với Visual Studio Code
+Giới thiệu CSS3
+Validation trong CSS
+Sử dụng Javascript trong HTML
+
+VietTuts on facebook
+
+
+Danh Sách Bài Học
+Học Java | Hibernate | Spring
+Học Excel | Excel VBA
+Học Servlet | JSP | Struts2
+Học C | C++ | C#
+Học Python
+Học SQL
+
+Bài Tập Có Lời Giải
+Bài tập Java
+Bài tập C
+Bài tập C++
+Bài tập C#
+Bài tập Python
+Ví dụ Excel VBA
+
+Câu Hỏi Phỏng Vấn
+201 câu hỏi phỏng vấn java
+25 câu hỏi phỏng vấn servlet
+75 câu hỏi phỏng vấn jsp
+52 câu hỏi phỏng vấn Hibernate
+70 câu hỏi phỏng vấn Spring
+57 câu hỏi phỏng vấn SQL
+
+Scroll back to top
+Copyright © 2016 VietTuts.Vn all rights reserved. | Liên hệ | Chính sách - riêng tư | sitemap.html | sitemap_index.xml
+
+1
