@@ -64,7 +64,7 @@ Phần mềm tiện ích
  
 Cấu trúc DL&GT
  
-Selenium Test
+Selenium CalculatorTest
 Java Cơ Bản
 Các Khái Niệm Java OOPs
 Java String

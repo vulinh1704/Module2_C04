@@ -4,8 +4,11 @@ import management.CatManage;
 import menu.MainMenu;
 import model.Cat;
 
+import java.util.regex.Pattern;
+
 public class Main {
     public static void main(String[] args) {
+        System.out.println("abc".matches("[a-z]{1,24}"));
 //        CatManage catManage = new CatManage();
 //        Cat cat = new Cat("Tom", "Mèo đen", false);
 //        catManage.add(cat);
@@ -15,7 +18,11 @@ public class Main {
 //        for (int i = 0; i < CatManage.size; i++) {
 //            System.out.println(catManage.showAll()[i]);
 //        }
-        MainMenu menu = new MainMenu();
-        menu.showMainMenu();
+//        MainMenu menu = new MainMenu();
+//        menu.showMainMenu();
     }
 }
+
+
+
+
