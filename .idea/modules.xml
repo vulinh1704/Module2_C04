@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbcAndInterface/AbcAndInterface.iml" filepath="$PROJECT_DIR$/AbcAndInterface/AbcAndInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/AccessModifier/AccessModifier.iml" filepath="$PROJECT_DIR$/AccessModifier/AccessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/C04Java.iml" filepath="$PROJECT_DIR$/C04Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" filepath="$PROJECT_DIR$/ClassAndObject/ClassAndObject.iml" />
