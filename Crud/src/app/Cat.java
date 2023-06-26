@@ -1,4 +1,4 @@
-package model;
+package app;
 
 public class Cat extends Animal{
     private String type;

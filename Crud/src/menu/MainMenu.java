@@ -1,7 +1,7 @@
 package menu;
 
 import management.CatManage;
-import model.Cat;
+import app.Cat;
 
 import java.util.Scanner;
 

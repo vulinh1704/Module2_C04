@@ -1,6 +1,6 @@
 package management;
 
-import model.Cat;
+import app.Cat;
 
 public class CatManage implements Manage<Cat> {
     private Cat[] cats;

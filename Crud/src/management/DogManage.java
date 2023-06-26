@@ -1,6 +1,6 @@
 package management;
 
-import model.Dog;
+import app.Dog;
 
 public class DogManage implements Manage<Dog> {
     @Override

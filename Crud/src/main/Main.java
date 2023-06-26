@@ -1,11 +1,5 @@
 package main;
 
-import management.CatManage;
-import menu.MainMenu;
-import model.Cat;
-
-import java.util.regex.Pattern;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("abc".matches("[a-z]{1,24}"));

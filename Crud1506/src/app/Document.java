@@ -1,13 +1,11 @@
-package model;
+package app;
 
-public class Animal {
+public class Document {
     private int id;
-    private String name;
-    private static int countId = 0;
+    public String name;
 
-    public Animal(String name) {
-        this.id = countId;
-        countId++;
+    public Document(int id, String name) {
+        this.id = id;
         this.name = name;
     }
 

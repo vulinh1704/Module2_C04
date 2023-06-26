@@ -1,6 +1,4 @@
-package model;
-
-import javax.print.Doc;
+package app;
 
 public class Book extends Document {
     private String nameAuthor;

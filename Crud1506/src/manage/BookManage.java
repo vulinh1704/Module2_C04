@@ -1,6 +1,6 @@
 package manage;
 
-import model.Book;
+import app.Book;
 
 import java.util.ArrayList;
 import java.util.List;
