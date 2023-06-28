@@ -14,12 +14,14 @@
       <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex/Ex.iml" filepath="$PROJECT_DIR$/Ex/Ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileAndSerialization/FileAndSerialization.iml" filepath="$PROJECT_DIR$/FileAndSerialization/FileAndSerialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Files/Files.iml" filepath="$PROJECT_DIR$/Files/Files.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inhertance/Inhertance.iml" filepath="$PROJECT_DIR$/Inhertance/Inhertance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/MapAndTree/MapAndTree.iml" filepath="$PROJECT_DIR$/MapAndTree/MapAndTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Street/Street.iml" filepath="$PROJECT_DIR$/Street/Street.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentEx/StudentEx.iml" filepath="$PROJECT_DIR$/StudentEx/StudentEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
