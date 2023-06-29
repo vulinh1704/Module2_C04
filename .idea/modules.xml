@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/StudentEx/StudentEx.iml" filepath="$PROJECT_DIR$/StudentEx/StudentEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
