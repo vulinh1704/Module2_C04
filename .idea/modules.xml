@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/MapAndTree/MapAndTree.iml" filepath="$PROJECT_DIR$/MapAndTree/MapAndTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Street/Street.iml" filepath="$PROJECT_DIR$/Street/Street.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentEx/StudentEx.iml" filepath="$PROJECT_DIR$/StudentEx/StudentEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
